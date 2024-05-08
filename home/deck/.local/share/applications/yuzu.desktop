@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=yuzu AppImage
+	Exec=/home/deck/Emulation/tools/launchers/yuzu.sh
+	Icon=/home/deck/.local/share/icons/emudeck/yuzu.svg
+	Terminal=false
+	Type=Application
+	Categories=Game;
+	StartupNotify=false
